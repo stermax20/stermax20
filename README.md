@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=釐發&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=NASM is love.&animation=fadeIn&fontColor=ffffff&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hello, World! </h2>  
@@ -22,3 +22,8 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Workspace Specs </h2> <br>
+
+https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white
+https://img.shields.io/badge/AMD-Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white
