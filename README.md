@@ -17,9 +17,11 @@
        
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstermax20&count_bg=%23514FB4&title_bg=%233B34C4&icon=github.svg&icon_color=%23ABA0D0&title=Github&edge_flat=true)](https://hits.seeyoufarm.com) 
 <br>
+<br>
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤖 My Baekjoon Tier </h2> <br> 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stermax20)](https://solved.ac/stermax20) 
+<br>
 <br>
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧠 Stacks </h2> <br> 
 
@@ -29,6 +31,7 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+<br>
 <br>
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Workspace Specs </h2> <br>
 
