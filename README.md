@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hello, World! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 경북소프트웨어고등학교 1학년 재학중인 김민석입니다. </li></li>저는 소프트웨어개발과로서 알고리즘, 웹 개발, 앱 개발 공부를 하고 최종적으로 웹 개발자가 되는 것이 목표입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> Hello? I'm Minseok-Kim, a freshman at Gyeongbuk Software High School. As a software development department, I study algorithms, web development, app development, and my goal is to become a web developer ultimately. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
@@ -13,8 +13,12 @@
     <div style="text-align: left;">  </div> 
     </div>
 
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤖 My Baekjoon Tier </h2> <br> 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stermax20)](https://solved.ac/stermax20) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstermax20&count_bg=%23514FB4&title_bg=%233B34C4&icon=github.svg&icon_color=%23ABA0D0&title=Github&edge_flat=true)](https://hits.seeyoufarm.com) 
+
+
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧠 Stacks </h2> <br> 
 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
