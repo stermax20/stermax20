@@ -11,7 +11,9 @@
          <a href=mailto:matilto:kimminseok0911@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:matilto:kimminseok0911@gmail.com"> 
          </a>
           </div>
-
+            <br>
+      <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎯 Total number of github visitors </h2> <br>
+       
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstermax20&count_bg=%23514FB4&title_bg=%233B34C4&icon=github.svg&icon_color=%23ABA0D0&title=Github&edge_flat=true)](https://hits.seeyoufarm.com) 
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤖 My Baekjoon Tier </h2> <br> 
