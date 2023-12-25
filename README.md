@@ -2,7 +2,7 @@
    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minseok's%20Github.&fontSize=90" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hello, World! </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🖐️ Hello, World! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> Hello? I'm Minseok-Kim, a freshman at Gyeongbuk Software High School. As a software development department, I study algorithms, web development, app development, and my goal is to become a web developer ultimately. </div> 
     </div>
     <div style="text-align: left;">
@@ -15,8 +15,7 @@
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🤖 My Baekjoon Tier </h2> <br> 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stermax20)](https://solved.ac/stermax20) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstermax20&count_bg=%23514FB4&title_bg=%233B34C4&icon=github.svg&icon_color=%23ABA0D0&title=Github&edge_flat=true)](https://hits.seeyoufarm.com) 
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stermax20)](https://solved.ac/stermax20) 
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧠 Stacks </h2> <br> 
 
