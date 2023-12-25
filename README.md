@@ -1,9 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&text=NASM is love.&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Minseok's Github.&fontSize=90" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hello, World! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 경북소프트웨어고등학교 1학년 재학중입니다. </li></li>저는 소프트웨어개발과로서 프로그래밍, 웹 개발, 어플리케이션 공부를 하고 최종적으로 웹 개발자가 되는 것이 목표입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 경북소프트웨어고등학교 1학년 재학중인 김민석입니다. </li></li>저는 소프트웨어개발과로서 알고리즘, 웹 개발, 앱 개발 공부를 하고 최종적으로 웹 개발자가 되는 것이 목표입니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
