@@ -25,5 +25,5 @@
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Workspace Specs </h2> <br>
 
-https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white
-https://img.shields.io/badge/AMD-Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white
+![amd_cpu](https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![amd_gpu](https://img.shields.io/badge/AMD-Radeon_RX_6600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
