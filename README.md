@@ -28,9 +28,9 @@ _start:
 
 <div style="text-align: left;">
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-    <li> Thank you for visiting my GitHub. I'm stermax20 (Minseok Kim), a senior at Gyeongbuk Software Meister High School.
-    As a software development major, I study algorithms, backend development, and test-driven development.
-    Ultimately, my goal is to become a backend developer who sticks to TDD.
+    <p>Thank you for visiting my GitHub. I'm stermax20 (Minseok Kim), a senior at Gyeongbuk Software Meister High School. 
+      As a software development major, I'm studying algorithm, backend development, and test-driven development. 
+      Ultimately, my goal is to become a backend developer who sticks to TDD.</p>
   </div>
 </div>
 
