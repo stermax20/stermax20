@@ -59,8 +59,5 @@ _start:
   
   ![jsp](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=white)
   ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-  ![express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![nestjs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   ![junit5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-  ![jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 </div>
