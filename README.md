@@ -3,27 +3,15 @@
 </div>
 
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🖐️ Hello, World! </h2>
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🖐️ Hello World! </h2>
 </div>
 
-```nasm
-section .data:
-  message: db "Hello, World!", 0x0a
-  message_length equ $-message
-
-section .text:
-global _start
-
-_start:
-  mov eax, 0x4
-  mov ebx, 1
-  mov ecx, message
-  mov edx, message_length
-  int 0x80
-
-  mov eax, 0x1
-  mov ebx, 0
-  int 0x80
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
 ```
 
 <div style="text-align: left;">
