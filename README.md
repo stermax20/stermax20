@@ -55,6 +55,7 @@ public class Main {
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧠 Stacks </h2>
 
+![java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=Java&logoColor=white)
 ![jsp](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=JSP&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![junit5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
